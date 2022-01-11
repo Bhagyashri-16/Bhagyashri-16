@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Bhagyashri-16
-- 👀 I’m interested in Azure DevOps
+- 👀 I’m interested in AWS and Azure DevOps
 - 🌱 I’m currently learning Azure concepts and interested in cloud technologies.
 - 📫 How to reach me - patilbhagyashri16@gmail.com
 
